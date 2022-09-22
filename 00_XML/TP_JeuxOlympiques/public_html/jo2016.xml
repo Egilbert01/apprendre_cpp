@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE lycee SYSTEM 'jo2016.dtd'>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<?xml-stylesheet href="blibliotheque.xsl" type="text/xsl" ?>
+
+<grille>
+    <pays nom="USA">
+        <medals metal="or">46</medals>
+        <medals metal="argent">37</medals>
+        <medals metal="bronze">38</medals>
+        <total></total>
+    </pays>
+    <pays nom="GB">
+        <medals metal="or">27</medals>
+        <medals metal="argent">23</medals>
+    </pays>
+</grille>
