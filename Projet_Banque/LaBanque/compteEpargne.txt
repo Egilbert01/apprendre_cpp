@@ -1,0 +1,4 @@
+1 consulter les soldes 
+2 effectuer un nouveau retrait
+3 taux d'interet
+quitter
